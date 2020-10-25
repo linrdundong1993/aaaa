@@ -1,7 +1,2 @@
 dsf
-<<<<<<< HEAD
-git branch commit quick & simple
-=======
-git branch commit add simple
->>>>>>> featurel
 git branch commit quick and simple
